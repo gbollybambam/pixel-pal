@@ -1,10 +1,11 @@
 # Pixel Pal 🧙‍♂️
 **The Gamified Companion for GitHub Copilot CLI**
 
-Pixel Pal is a VS Code extension that brings life to your terminal workflow. It visualizes your coding journey and specifically rewards you for leveraging AI tools like **GitHub Copilot CLI**.
+[![Download](https://img.shields.io/badge/Download-.vsix-blue?style=for-the-badge&logo=visualstudiocode)](https://github.com/gbollybambam/pixel-pal/releases/latest)
+
+> **Installation:** Download the `.vsix` file from the [Releases Page](https://github.com/gbollybambam/pixel-pal/releases/latest) and install it manually in VS Code ("Install from VSIX").
 
 ## 🚀 Features
-
 * **🤖 AI Detection:** Pixel Pal recognizes when you use `gh copilot` commands in your terminal or code comments (e.g., `// asking copilot`) and casts a magic spell to celebrate your AI usage.
 * **⚔️ Git Integration:** Pushing code (`git push`) triggers an attack/victory animation.
 * **🏃 Typing Speed:** The pet runs faster as you type, mirroring your momentum.
